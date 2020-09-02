@@ -1,6 +1,6 @@
 
 # Autor: Daniel Felipe Alfonso Bueno
-## Codigo de honor: 
+## Código de honor: 
 
 ------
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
@@ -27,7 +27,7 @@ Ejecutamos npm start para ver nuestro proyecto en funcionamiento
 ~~~
 npm start
 ~~~
-Veremos la aplicación corriendo en un ambiente local, tambien se dispone de la app desplegada en la nube en dos servicios diferentes
+Veremos la aplicación corriendo en un ambiente local, también se dispone de la app desplegada en la nube en dos servicios diferentes
 
 [¡Aplicación desplegada en Heroku!](https://young-ravine-23092.herokuapp.com/)
 
@@ -45,3 +45,26 @@ Password: 123
 
 
 Podemos observarlo abriendo la consola del navegador dando en el apartado aplicación 
+![img](./Pantallazos/1.PNG)
+
+#### Implementación del Login con Material
+![img](./Pantallazos/2.PNG)
+
+#### Implementación de Drawer Navigation y Cards de tareas
+![img](./Pantallazos/3.PNG)
+
+#### Implementación de service worker
+![img](./Pantallazos/4.PNG)
+
+Ahora si trabajamos sin conexión, seleccionando offline en el checkbox funciona con normalidad la aplicación se realizó una prueba de hacer logout e intentar volver a entrar
+y funciona de manera correcta sin conexión y después cuando se quiere acceder a algún sitio como google, no hay conexión se adjunta evidencia
+
+![img](./Pantallazos/5.PNG)
+
+![img](./Pantallazos/6.PNG)
+
+![img](./Pantallazos/7.PNG)
+
+![img](./Pantallazos/8.PNG)
+
+![img](./Pantallazos/9.PNG)
